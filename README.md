@@ -6,6 +6,12 @@ With this application, when art lovers come across a work of art, they will have
 They will be able to grant access to their galleries themselves. They will be able to keep all data safe until the app is deleted. <br>
 The photos will be resized with Java, so the application will not need a very large storage space. <br>
 
+Turkish: Kullanıcıdan izin alınması ve verilerin kaydedilmesi.
+
+Bu uygulama ile sanatseverler bir sanat eseriyle karşılaştıklarında eserin fotoğrafını, adını, sanatçısını, tarihini hızlı bir şekilde not edebilecekleri bir uygulamaya sahip olacaklar.
+Galerilerine erişim iznini kendileri verebilecekler. Uygulama silinene kadar tüm verileri güvende tutabilecekler.
+Fotoğraflar Java ile yeniden boyutlandırılacağı için uygulamanın çok büyük bir depolama alanına ihtiyacı olmayacak.
+
 # Language and Tools
 ![Langs](https://skillicons.dev/icons?i=java,sqlite,androidstudio,")
 
